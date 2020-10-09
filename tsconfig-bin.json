@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "target": "esnext",
-    "module": "commonjs",
+    "module": "esnext",
     "declaration": false,
     "outDir": "bin",
     "sourceMap": false,
@@ -11,7 +11,7 @@
     "forceConsistentCasingInFileNames": true
   },
   "include": [
-    "src/command.ts"
+    "src/**/*"
   ],
   "exclude": []
 }
