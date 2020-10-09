@@ -1,6 +1,6 @@
 {
   "name": "@nyamazing/ncmp",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Compare two files by node.",
   "author": "Nyamazing!",
   "repository": "git@github.com:Nyamazing/ncmp.git",
